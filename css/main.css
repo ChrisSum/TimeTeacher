@@ -1,0 +1,35 @@
+body
+{
+	font-family:helvetica;
+	background-color: #f2f2f2;
+	margin-left: 10px;
+}
+
+#title {
+	font-family: 'Inconsolata';
+}
+
+#realTime
+{
+	margin-top:20px;
+	font-size:130px;
+	color:black;
+	padding:10px;
+	text-align: center;
+	margin-left:150px;
+}
+
+#analogClock {
+	background-color: #f2f2f2;
+	text-align: center;
+	margin-left: 42%;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+#lit p {
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Inconsolata';
+}
+
